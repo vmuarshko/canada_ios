@@ -48,14 +48,14 @@
     
     NSString *html = @"";
     if([[NSUserDefaults standardUserDefaults] integerForKey:@"language"] == 0 ){
-        html = @"<script type=\"text/javascript\" src=\"http://cdn.itoolpro.com/widgets/calc-canada-guaranty-mobile/insurance-calculator.js\"></script>";
+        html = @"<html><script type=\"text/javascript\" src=\"http://cdn.itoolpro.com/widgets/calc-canada-guaranty-mobile/insurance-calculator.js\"></script></html>";
 
     }else {
-        html = @"<script type=\"text/javascript\" src=\"http://cdn.itoolpro.com/widgets/calc-canada-guaranty-mobile/fr/insurance-calculator.js\"></script>";
+        html = @"<html><script type=\"text/javascript\" src=\"http://cdn.itoolpro.com/widgets/calc-canada-guaranty-mobile/fr/insurance-calculator.js\"></script></html>";
     }
     [webView loadHTMLString:html baseURL:nil];
     webView.delegate = self;
-    webView.scalesPageToFit = TRUE;
+    webView.scalesPageToFit = NO;
 
 	
 //    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(calculateAction) name:@"picker" object:nil];

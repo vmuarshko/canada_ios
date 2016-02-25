@@ -1,20 +1,28 @@
 {
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8986BB22D85978F602862D941484E7FFB8D2D3C8",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
     "f7e5b873-00e6-4e5e-b8c7-ab18e404b89d++5596" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "f7e5b873-00e6-4e5e-b8c7-ab18e404b89d++5596" : 0
+    "f7e5b873-00e6-4e5e-b8c7-ab18e404b89d++5596" : 0,
+    "8986BB22D85978F602862D941484E7FFB8D2D3C8" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1626A872-4570-4829-9711-9E4037E6102F",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "f7e5b873-00e6-4e5e-b8c7-ab18e404b89d++5596" : "canada_ios\/Classes\/Common\/UICustomSwitch\/"
+    "f7e5b873-00e6-4e5e-b8c7-ab18e404b89d++5596" : "canada_ios\/Classes\/Common\/UICustomSwitch\/",
+    "8986BB22D85978F602862D941484E7FFB8D2D3C8" : "canada_ios\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "CanadaGuatantee",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CanadaGuatantee.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vmuarshko\/canada_ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8986BB22D85978F602862D941484E7FFB8D2D3C8"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/catamount.svn.beanstalkapp.com\/catamount",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",

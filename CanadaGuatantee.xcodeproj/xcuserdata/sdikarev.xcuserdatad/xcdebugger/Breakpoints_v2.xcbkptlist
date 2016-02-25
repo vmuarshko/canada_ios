@@ -15,8 +15,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "181"
             endingLineNumber = "181"
-            landmarkName = "-calculateAction"
-            landmarkType = "5">
+            landmarkName = "@implementation MortgageVC"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -31,8 +31,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "204"
             endingLineNumber = "204"
-            landmarkName = "-getSinglePre:::"
-            landmarkType = "5">
+            landmarkName = "@implementation MortgageVC"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -47,8 +47,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "864"
             endingLineNumber = "864"
-            landmarkName = "-tableView:didSelectRowAtIndexPath:"
-            landmarkType = "5">
+            landmarkName = "@implementation MortgageVC"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
