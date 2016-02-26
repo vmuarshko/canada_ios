@@ -819,8 +819,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Canada Guaranty Mortgage Insurance Company  (C2R76V2M66)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Canada Guaranty Mortgage Insurance Company  (C2R76V2M66)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Canada Guaranty Mortgage Insurance Company (C2R76V2M66)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Canada Guaranty Mortgage Insurance Company (C2R76V2M66)";
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -829,8 +829,8 @@
 				INFOPLIST_FILE = "CanadaGuatantee-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = CanadaGuatantee;
-				PROVISIONING_PROFILE = "746F9281-73E7-4A76-B58B-EFA62B604EE3";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "746F9281-73E7-4A76-B58B-EFA62B604EE3";
+				PROVISIONING_PROFILE = "00980cba-fc06-4c33-a4a3-3a4791eea322";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "00980cba-fc06-4c33-a4a3-3a4791eea322";
 			};
 			name = Debug;
 		};
@@ -838,16 +838,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Canada Guaranty Mortgage Insurance Company  (C2R76V2M66)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Canada Guaranty Mortgage Insurance Company  (C2R76V2M66)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Canada Guaranty Mortgage Insurance Company (C2R76V2M66)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Canada Guaranty Mortgage Insurance Company (C2R76V2M66)";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = CanadaGuatantee_Prefix.pch;
 				INFOPLIST_FILE = "CanadaGuatantee-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = CanadaGuatantee;
-				PROVISIONING_PROFILE = "746F9281-73E7-4A76-B58B-EFA62B604EE3";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "746F9281-73E7-4A76-B58B-EFA62B604EE3";
+				PROVISIONING_PROFILE = "00980cba-fc06-4c33-a4a3-3a4791eea322";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "00980cba-fc06-4c33-a4a3-3a4791eea322";
 			};
 			name = Release;
 		};
@@ -900,8 +900,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Canada Guaranty Mortgage Insurance Company  (C2R76V2M66)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Canada Guaranty Mortgage Insurance Company  (C2R76V2M66)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Canada Guaranty Mortgage Insurance Company (C2R76V2M66)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Canada Guaranty Mortgage Insurance Company (C2R76V2M66)";
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -910,8 +910,8 @@
 				INFOPLIST_FILE = "CanadaGuatantee-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = CanadaGuatantee;
-				PROVISIONING_PROFILE = "746F9281-73E7-4A76-B58B-EFA62B604EE3";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "746F9281-73E7-4A76-B58B-EFA62B604EE3";
+				PROVISIONING_PROFILE = "00980cba-fc06-4c33-a4a3-3a4791eea322";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "00980cba-fc06-4c33-a4a3-3a4791eea322";
 			};
 			name = Distribution;
 		};
